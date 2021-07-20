@@ -1,0 +1,146 @@
+.main{
+	border: 3px solid green;
+}
+.first-body{
+	display: inline-flex;
+
+	
+}
+.first-body-left;
+{
+	width: 50%;
+	height: 800px;
+	text-align: center;
+	box-sizing: border-box;
+	float: left;
+	background-color: #B0C4DE;
+	margin: 
+
+	
+}
+
+.first-body-right;
+{
+	width: 50%;
+	height: 100%;
+	background-color: #7FFFD4;
+	box-sizing: border-box;
+	float: right;
+
+}
+
+.privet{
+	background-color: #FF6347;
+	text-align: center;
+	font: bold italic 110% serif;
+	font-size: 30px; 
+}
+.text{
+	text-align: center;
+	font: bold italic 120% serif;
+	font-size: 40px; 
+	width: 500px;
+}
+.text2{
+	text-align: left;
+	font: bold italic 120% serif;
+	font-size: 30px;
+	width: 500px;
+	margin: 20px 0px 20px 10px;
+
+}
+.text3{
+	text-align: left;
+	font: bold italic 120% serif;
+	font-size: 20px;
+	width: 500px;
+	margin-left: 20px;
+
+}
+
+img{
+	width: 130px;
+	height: 200px;
+	border: 4px solid blue;
+	border-radius: 20px;
+
+	
+
+}
+.image-center{
+	display: block;
+	margin: auto;
+	}
+.brd{
+	border-top: 5px solid orange;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin: 10px;
+}
+.brd-purple{
+	border-top: 2px solid #800080;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin: 10px;
+	width: 450px;
+}
+}
+
+
+.lyb{
+	font: bold italic 120% serif;
+	font-size: 25px; 
+	text-align: right;
+	width: 400px;
+	background-color: #B0C4DE;
+	
+	
+
+}
+.line{
+	border-bottom: 2px solid black;
+	font: bold italic 140% serif;
+	
+}
+.hit{
+		text-align: center;
+		width: 100%;
+		margin: 5px;
+		border-radius: 8px;
+}
+.cats{
+		background-color: #FF7F50;
+		text-align: center;
+		width: 240px;
+		margin: 5px;
+		border-radius: 8px;
+}
+.flowers{
+		background-color: #EE82EE;
+		text-align: center;
+		width: 280px;
+		margin: 5px;
+		border-radius: 8px;
+	}
+.warenyky{
+		background-color: #FFFACD;
+		text-align: center;
+		width: 350px;
+		margin: 5px;
+		border-radius: 8px;
+	}
+.other{
+	background-color: #B0C4DE;
+	padding: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li:before {
+    content:  "—";
+    position: relative;
+    left: -3px;
+}
+
